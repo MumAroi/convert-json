@@ -11,5 +11,7 @@ Install my-project with golang
     cd my-project
     go mod tidy
     go run .\main.go -h
+    OR
+    go run .\main.go  -f myjsoninput.json -o myjsonoutput.json
 ```
     
